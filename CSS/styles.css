@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Signika+Negative:wght@300..700&display=swap'); 
+*{
+  padding: o;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: "Signika Negative", serif;
+}
+
+p,a,li{
+  font-family: "Open Sans", serif;
+}
+
+body{
+  background-color: black;
+}
+
+.slide-image{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/Sonic\ 3\ poster.jpeg);
+  background-size: cover;
+  height: 60vh;
+  background-position: center;
+}
+
+.slide-image2{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/Mufasa_\ The\ Lion\ King.jpeg);
+  background-size: cover;
+  height: 60vh;
+  background-position: center;
+}
+
+.slide-image3{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/Moana\ 2\ \(\ 11_\ x\ 17_\ \)\ Collector\'s\ Poster\ Print\ \(\ T8\)\ B2G1F.jpeg);
+  background-size: cover;
+  height: 60vh;
+  background-position: center;
+}
+
+.cal-txt{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  padding: 50px;
+}
+
+.myca{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/Moana\ 2\ \(\ 11_\ x\ 17_\ \)\ Collector\'s\ Poster\ Print\ \(\ T8\)\ B2G1F.jpeg);
+  background-size: cover;
+  height: 28vh;
+  background-position: center;
+}
+.myca{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/Back\ in\ Action\ \(2025\).jpeg);
+  background-size: cover;
+  height: 28vh;
+  background-position: center;
+}
+.myca2{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/Blue\ Beetle\ \(2023\).jpeg);
+  background-size: cover;
+  height: 58vh;
+  background-position: center;
+}
+
+.myca1{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/Den\ of\ Thieves\ 2_\ Pantera\ \(2025\)\ \(1\).jpeg);
+  background-size: cover;
+  height: 28vh;
+  background-position: center;
+}
+.myca3{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/ee6397bb-5790-47d4-9c6e-2d4b29ebf5b5.jpeg);
+  background-size: cover;
+  height: 60vh;
+  background-position: center;
+}
+.myca4{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/It\ Ends\ With\ Us.jpeg);
+  background-size: cover;
+  height: 65vh;
+  background-position: center;
+}
+.myca5{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/TALK\ TO\ ME\ \(2022\ MOVIE\)\ -\ PARANORMAL\ PROPAGANDA.jpeg);
+  background-size: cover;
+  height: 68vh;
+  background-position: center;
+}
+.myca6{
+  background: linear-gradient(rgba(0, 0, 0, 0.289), rgba(0, 0, 0, 0.568)),url(../IMGS/69cecc24-0ce4-49bc-9812-6fcbdd3c8e2d.jpeg);
+  background-size: cover;
+  height: 70vh;
+  background-position: center;
+}
+
+.action {
+  width: 80%;
+  margin: auto;
+}
+
+.m-txt {
+  font-size: 10pt;
+
+}
+
+.my-txt {
+  font-size: 15pt;
+  font-weight: 600;
+}
